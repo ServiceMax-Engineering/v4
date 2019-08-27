@@ -1,16 +1,9 @@
 {
-  "name": "webdriverio",
+  "name": "@svmx/webdriverio",
   "description": "A Node.js bindings implementation for the W3C WebDriver protocol",
-  "version": "4.14.4",
+  "version": "4.0.0",
   "homepage": "http://webdriver.io",
-  "author": "Camilo Tapia <camilo.tapia@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/webdriverio/webdriverio.git"
-  },
-  "bugs": {
-    "url": "https://github.com/webdriverio/webdriverio/issues"
-  },
+  "author": "ServiceMax",
   "license": "MIT",
   "main": "./build/index.js",
   "bin": {
